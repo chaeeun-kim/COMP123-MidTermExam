@@ -43,7 +43,7 @@ namespace COMP123_MidTermExam
                 return _numberList;
             } }
         public Random random
-        { get { return random; } }
+        { get { return _random; } }
         public int SetSize
         { get; set; }
 
