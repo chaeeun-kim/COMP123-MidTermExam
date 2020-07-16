@@ -92,7 +92,7 @@ namespace COMP123_MidTermExam
 
 
         // CREATE the private _build method here -----------------------------------
-        public void _build()
+        private void _build()
         {for (int i = 1; i <= SetSize; i++)
             { NumberList.Add(i); }
             
